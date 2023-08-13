@@ -63,7 +63,7 @@ Lista de pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/alexvieirasj">
         <img src="https://avatars.githubusercontent.com/u/23263907" width="100px;" alt="Foto de Alex Vieira no GitHub"/><br>
         <sub>
           <b>Alex Vieira</b>
