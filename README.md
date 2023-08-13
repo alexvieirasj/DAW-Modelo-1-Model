@@ -33,6 +33,7 @@ As tecnologias utilizadas no projeto foram:
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas listadas abaixo:
 
 - [ ] Ajustar a diferença na inserção de usuários (é aluno ou professor)
+- [ ] Ajustar todos os testes do JUnit
 
 ## :package: Como utilizar o projeto
 
