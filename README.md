@@ -32,9 +32,7 @@ As tecnologias utilizadas no projeto foram:
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas listadas abaixo:
 
-- [ ] Melhorar o layout para diferenciar as manutenções basicas da principais
 - [ ] Ajustar a diferença na inserção de usuários (é aluno ou professor)
-- [ ] Melhorar os filtros de buscas
 
 ## :package: Como utilizar o projeto
 
